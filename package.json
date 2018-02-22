@@ -1,0 +1,14 @@
+{
+  "name": "javascript-webdriverio",
+  "version": "1.0.0",
+  "description": "One or many experiments using webdriverio",
+  "repository": {
+    "type": "git",
+    "url": "github:weaddquality/javascript-webdriverio"
+  },
+  "author": "Måns Nilsson",
+  "license": "MIT",
+  "dependencies": {
+    "webdriverio": "^4.10.2"
+  }
+}
