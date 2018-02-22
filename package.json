@@ -2,7 +2,7 @@
   "name": "javascript-webdriverio",
   "version": "1.0.0",
   "description": "One or many experiments using webdriverio",
-  "script": {
+  "scripts": {
     "test": "wdio"
   },
   "repository": {
