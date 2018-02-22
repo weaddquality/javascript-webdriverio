@@ -2,6 +2,9 @@
   "name": "javascript-webdriverio",
   "version": "1.0.0",
   "description": "One or many experiments using webdriverio",
+  "script": {
+    "test": "wdio"
+  },
   "repository": {
     "type": "git",
     "url": "github:weaddquality/javascript-webdriverio"
@@ -10,5 +13,12 @@
   "license": "MIT",
   "dependencies": {
     "webdriverio": "^4.10.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.18.1",
+    "wdio-mocha-framework": "^0.5.12",
+    "wdio-selenium-standalone-service": "0.0.9",
+    "wdio-spec-reporter": "^0.1.3"
   }
 }
